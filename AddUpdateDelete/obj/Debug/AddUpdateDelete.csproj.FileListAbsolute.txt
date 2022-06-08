@@ -1,0 +1,12 @@
+C:\Users\Emre\Desktop\AddUpdateDelete\bin\Debug\AddUpdateDelete.exe.config
+C:\Users\Emre\Desktop\AddUpdateDelete\bin\Debug\AddUpdateDelete.exe
+C:\Users\Emre\Desktop\AddUpdateDelete\bin\Debug\AddUpdateDelete.pdb
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.Form1.resources
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.Properties.Resources.resources
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.exe
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.pdb
+C:\Users\Emre\Desktop\AddUpdateDelete\obj\Debug\AddUpdateDelete.KullaniciGirisi.resources
